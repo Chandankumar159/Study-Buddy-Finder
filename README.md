@@ -4,14 +4,14 @@ A Peer-to-Peer Study Buddy Finder web app that helps students connect, chat, and
 
 ## 🖼 Project Screenshot
 
-![Screenshot 2025-05-13 215748](https://github.com/user-attachments/assets/fdf92ef3-d3c0-46bf-8f44-fe7660c4c01c)
+![Screenshot 2025-05-13 215601](https://github.com/user-attachments/assets/fd29ab3e-2655-483a-9d8d-0f33a799e8da)
 
- ![Screenshot 2025-05-13 215737](https://github.com/user-attachments/assets/f7a83dec-3136-4b87-82cc-f53254df8f2b)
+![Screenshot 2025-05-13 215629](https://github.com/user-attachments/assets/26a71b41-1b1c-4415-919e-6f21de683ae6)
 
-![Screenshot 2025-05-13 215629](https://github.com/user-attachments/assets/62b20837-60f3-4fab-8cd6-b52154e214b6)
+*Screenshot Description:* ![Screenshot 2025-05-13 215737](https://github.com/user-attachments/assets/68f51215-a22b-4ab7-8463-c8479ed34554)
 
-![Screenshot 2025-05-13 215601](https://github.com/user-attachments/assets/23671bb9-a9e4-45bf-b711-6718a7838c53)
-*Screenshot Description:* 
+![Screenshot 2025-05-13 215748](https://github.com/user-attachments/assets/75a9789a-257b-44d6-89ae-f4fcf919f77d)
+
 The image above shows the "Sign Up" page of the Study Buddy Finder application.  
 - The user is attempting to sign up with the name Chandu and subjects Biology, Physics.
 - If the signup fails (for example, due to backend issues or incorrect input), a "Signup failed." message is displayed.
