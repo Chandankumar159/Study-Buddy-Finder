@@ -63,24 +63,5 @@ The image above shows the "Sign Up" page of the Study Buddy Finder application.
 
 ---
 
-## 🖥 Customization
 
-- *Change background images:* Edit the BG_AUTH and BG_MAIN URLs in src/App.js for a personalized look.
 
----
-
-## 🐞 Troubleshooting
-
-If you see "Signup failed." on the sign up page:
-- Make sure your backend server is running.
-- Ensure you are entering subjects as a comma-separated list (e.g., Biology, Physics).
-- Check your backend terminal for error messages and logs.
-
----
-
-## 🙏 Credits
-
-- [Unsplash](https://unsplash.com/) for background images
-- [React](https://react.dev/) and [Express](https://expressjs.com/)
-
----
